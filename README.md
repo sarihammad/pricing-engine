@@ -1,6 +1,6 @@
 # Monte Carlo Options Pricing Engine
 
-An end-to-end options pricing system built in modern C++ to simulate and evaluate European, Asian, and Barrier options using Monte Carlo methods.
+An end-to-end options pricing system built in C++ to simulate and evaluate European, Asian, and Barrier options using Monte Carlo methods.
 
 The engine supports variance reduction techniques and benchmarks its accuracy against the Black-Scholes model.
 
